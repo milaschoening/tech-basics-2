@@ -14,3 +14,4 @@ Inside the Starter Kit:
 - experimented with the delay value to change the blinking speed -> the smaller the delay, the faster the LED blinks and the more it appears to flicker
 - built the circuit using a breadboard and a 220Ω resistor
   
+<img width="2633" height="3511" alt="exercise01" src="https://github.com/user-attachments/assets/2467893f-213b-4283-91e7-f9144f65a9f8" />
