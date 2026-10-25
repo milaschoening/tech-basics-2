@@ -6,9 +6,9 @@ Inside the Starter Kit:
 - Breadboard: used to build and test electronic circuits without soldering
 - Jumper wires: wires with female and/or male connectors, used to connect components
 - LED (Light Emitting Diode): long leg is positive (+) and short leg is negative (-)
-Software: Arduino IDE, used to write and upload code to the Arduino
 
 ## Exercise: Blinking LED 
+- Software: download Arduino IDE, used to write and upload code to the Arduino
 - connect an LED to pin 13 and GND
 - used pinMode(), digitalWrite() and delay() to control the LED
 - experimented with the delay value to change the blinking speed -> the smaller the delay, the faster the LED blinks and the more it appears to flicker
