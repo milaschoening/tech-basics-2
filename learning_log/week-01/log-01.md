@@ -13,19 +13,4 @@ Inside the Starter Kit:
 - used pinMode(), digitalWrite() and delay() to control the LED
 - experimented with the delay value to change the blinking speed -> the smaller the delay, the faster the LED blinks and the more it appears to flicker
 - built the circuit using a breadboard and a 220Ω resistor
-
-## Code:
-void setup() {
-  pinMode(13, OUTPUT);
-  // put your setup code here, to run once:
-}
-
-void loop() {
-  digitalWrite(13, HIGH); // on - 5v
-  delay(1000); // 1000 miliseconds
-
-  digitalWrite(13, LOW); // off - 0v
-  delay(1000); // 1000 miliseconds
   
-  // put your main code here, to run repeatedly:
-  }
