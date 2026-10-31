@@ -13,7 +13,7 @@ void loop() {
   }
 
   // fade out
-  for (int i = 0; i >= 255; i -= 5){
+  for (int i = 255; i >= 0; i -= 5){
     analogWrite(3, i);
     delay(20);
   }
