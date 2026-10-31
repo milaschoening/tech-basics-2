@@ -1,6 +1,6 @@
 # 27.10.2026
 ### Class Notes:
-- *PWM (Pulse-Width Modulation)*: way to control power by switching a signal on and off very quickly, e.g. used to dim LEDs
+- PWM (Pulse-Width Modulation): way to control power by switching a signal on and off very quickly, e.g. used to dim LEDs
 - Duty Cycle: how long the signal stays on during one cycle
 - Oscilloscope: device that measures voltage and displays it as a graph
 - Analog vs. digital signals: analog signals are continuous, while digital signals have seperate states (0 and 1)
