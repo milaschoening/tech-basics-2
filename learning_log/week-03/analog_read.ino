@@ -6,16 +6,13 @@ int value = 0;
 int brightness = 0;
 
 void setup() {
-  // put your setup code here, to run once:
   pinMode(A0, INPUT);
   pinMode(led, OUTPUT);
   Serial.begin(9600); //open the serial port at 9600 bps
   delay(500);
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
-  //Serial.println("Hello"); // print with new line 
+void loop() { 
   value = analogRead(pot);
 
   Serial.print("Pot:");
