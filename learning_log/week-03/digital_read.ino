@@ -1,6 +1,5 @@
 // digitalread tilt switch
 
-int value = 0;
 const int pin = 2;
 
 void setup() {
